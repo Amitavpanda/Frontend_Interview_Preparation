@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.heading>h1{
+    color: white;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    background-color: white;
+    margin-top: 30px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.draggable{
+    background-color: red ;
+    padding: 10px;
+    cursor: move;
+}
+
+.draggable.dragging{
+    opacity: 0.5;
+}
