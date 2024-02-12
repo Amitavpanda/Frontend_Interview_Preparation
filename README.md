@@ -13,8 +13,6 @@ Here's a list of the projects included in this repository:
 
 [![Quote Generator](https://img.shields.io/badge/quotegenerator-00ff00?style=for-the-badge&logo=hackerrankl&logoColor=white)](https://github.com/Amitavpanda/Quote_Generator_JavaScript)
 
-[![Joke Teller](https://img.shields.io/badge/joketeller-d2691e?style=for-the-badge&logo=hackerrankl&logoColor=white)](https://github.com/Amitavpanda/Joke_Teller_Vanilla_Javascript)
-
 [![Tip Calculator](https://img.shields.io/badge/tipcalculator-dc143c?style=for-the-badge&logo=hackerrankl&logoColor=white)](https://github.com/Amitavpanda/Tip_Calculator_Javascript)
 
 ## Getting Started
